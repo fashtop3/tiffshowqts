@@ -1,0 +1,317 @@
+[
+  {
+    "qts": "we asked 100 married women, Name something you wish your husband would do more often",
+    "qtsTag": "rounds",
+    "answers": [
+      {
+        "ans": "last longer in bed",
+        "index": 0,
+        "point": 25
+      },
+      {
+        "ans": "give money",
+        "index": 1,
+        "point": 18
+      },
+      {
+        "ans": "take me outing",
+        "index": 2,
+        "point": 15
+      },
+
+      {
+        "ans": "shave/bath",
+        "index": 3,
+        "point": 12
+      },
+
+      {
+        "ans": "come back home on time",
+        "index": 4,
+        "point": 11
+      },
+
+      {
+        "ans": "listen to me more often/attention",
+        "index": 5,
+        "point": 10
+      },
+
+      {
+        "ans": "get gifts",
+        "index": 6,
+        "point": 9
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 0
+      }
+    ]
+  },
+  {
+    "qts": "Name something a wedding and funeral have in common",
+    "qtsTag": "rounds",
+    "answers": [
+      {
+        "ans": "Clergyman",
+        "index": 0,
+        "point": 27
+      },
+      {
+        "ans": "Aso Ebi",
+        "index": 1,
+        "point": 16
+      },
+      {
+        "ans": "Food",
+        "index": 2,
+        "point": 22
+      },
+
+      {
+        "ans": "Souvenirs",
+        "index": 3,
+        "point": 18
+      },
+
+      {
+        "ans": "Drinks",
+        "index": 4,
+        "point": 11
+      },
+
+      {
+        "ans": "Music",
+        "index": 5,
+        "point": 6
+      },
+
+      {
+        "ans": "",
+        "index": 6,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 0
+      }
+    ]
+  },
+  {
+    "qts": "Phrases usually used by Nigerian lecturers",
+    "qtsTag": "rounds",
+    "answers": [
+      {
+        "ans": "A is for God, B is for me",
+        "index": 0,
+        "point": 29
+      },
+      {
+        "ans": "get out of my class",
+        "index": 1,
+        "point": 19
+      },
+      {
+        "ans": "see me in my office",
+        "index": 2,
+        "point": 18
+      },
+
+      {
+        "ans": "Tear a sheet of paper",
+        "index": 3,
+        "point": 15
+      },
+
+      {
+        "ans": "Minus 5",
+        "index": 4,
+        "point": 10
+      },
+
+      {
+        "ans": "AOC",
+        "index": 5,
+        "point": 5
+      },
+
+      {
+        "ans": "",
+        "index": 6,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 0
+      }
+    ]
+  },
+  {
+    "qts": "We asked 100 teenagers what's your least favourite house chores",
+    "qtsTag": "rounds",
+    "answers": [
+      {
+        "ans": "Washing plates",
+        "index": 0,
+        "point": 40
+      },
+      {
+        "ans": "Sweeping/mopping",
+        "index": 1,
+        "point": 25
+      },
+      {
+        "ans": "Doing laundry",
+        "index": 2,
+        "point": 14
+      },
+
+      {
+        "ans": "washing the car",
+        "index": 3,
+        "point": 14
+      },
+
+      {
+        "ans": "",
+        "index": 4,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 5,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 6,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 0
+      }
+    ]
+  },
+  {
+    "qts": "We asked Nigerians, do you prefer online banking or walk-in Banking ",
+    "qtsTag": "rounds",
+    "answers": [
+      {
+        "ans": "Walk-in Banking",
+        "index": 0,
+        "point": 60
+      },
+      {
+        "ans": "",
+        "index": 1,
+        "point": 0
+      },
+      {
+        "ans": "",
+        "index": 2,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 3,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 4,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 5,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 6,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 0
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 0
+      }
+    ]
+  }
+]
