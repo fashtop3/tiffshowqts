@@ -41,24 +41,6 @@
         "ans": "get gifts",
         "index": 6,
         "point": 9
-      },
-
-      {
-        "ans": "",
-        "index": 7,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 8,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 9,
-        "point": 0
       }
     ]
   },
@@ -98,30 +80,6 @@
         "ans": "Music",
         "index": 5,
         "point": 6
-      },
-
-      {
-        "ans": "",
-        "index": 6,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 7,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 8,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 9,
-        "point": 0
       }
     ]
   },
@@ -161,30 +119,6 @@
         "ans": "AOC",
         "index": 5,
         "point": 5
-      },
-
-      {
-        "ans": "",
-        "index": 6,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 7,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 8,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 9,
-        "point": 0
       }
     ]
   },
@@ -212,42 +146,6 @@
         "ans": "washing the car",
         "index": 3,
         "point": 14
-      },
-
-      {
-        "ans": "",
-        "index": 4,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 5,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 6,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 7,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 8,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 9,
-        "point": 0
       }
     ]
   },
@@ -259,58 +157,6 @@
         "ans": "Walk-in Banking",
         "index": 0,
         "point": 60
-      },
-      {
-        "ans": "",
-        "index": 1,
-        "point": 0
-      },
-      {
-        "ans": "",
-        "index": 2,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 3,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 4,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 5,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 6,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 7,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 8,
-        "point": 0
-      },
-
-      {
-        "ans": "",
-        "index": 9,
-        "point": 0
       }
     ]
   }
