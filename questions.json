@@ -184,7 +184,7 @@
       {
         "ans": "",
         "index": 1,
-        "point": 10
+        "point": 40
       },
       {
         "ans": "",
@@ -195,7 +195,7 @@
       {
         "ans": "",
         "index": 3,
-        "point": 10
+        "point": 40
       },
 
       {
@@ -213,7 +213,7 @@
       {
         "ans": "",
         "index": 6,
-        "point": 40
+        "point": 10
       },
 
       {
@@ -225,7 +225,7 @@
       {
         "ans": "",
         "index": 8,
-        "point": 40
+        "point": 10
       },
 
       {
@@ -248,7 +248,7 @@
       {
         "ans": "",
         "index": 1,
-        "point": 10
+        "point": 40
       },
       {
         "ans": "",
@@ -259,7 +259,7 @@
       {
         "ans": "",
         "index": 3,
-        "point": 10
+        "point": 40
       },
 
       {
@@ -277,7 +277,7 @@
       {
         "ans": "",
         "index": 6,
-        "point": 40
+        "point": 10
       },
 
       {
@@ -289,7 +289,7 @@
       {
         "ans": "",
         "index": 8,
-        "point": 40
+        "point": 10
       },
 
       {
@@ -299,6 +299,7 @@
       }
     ]
   },
+
 {
     "qts": "big cash",
     "qtsTag": "big cash",
@@ -311,7 +312,7 @@
       {
         "ans": "",
         "index": 1,
-        "point": 10
+        "point": 40
       },
       {
         "ans": "",
@@ -322,7 +323,7 @@
       {
         "ans": "",
         "index": 3,
-        "point": 10
+        "point": 40
       },
 
       {
@@ -340,7 +341,7 @@
       {
         "ans": "",
         "index": 6,
-        "point": 40
+        "point": 10
       },
 
       {
@@ -352,7 +353,7 @@
       {
         "ans": "",
         "index": 8,
-        "point": 40
+        "point": 10
       },
 
       {
@@ -362,6 +363,7 @@
       }
     ]
   },
+
 
 {
     "qts": "Dummy Question",
