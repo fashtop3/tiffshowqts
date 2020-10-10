@@ -160,6 +160,198 @@
       }
     ]
   },
+{
+    "qts": "big cash",
+    "qtsTag": "big cash",
+    "answers": [
+      {
+        "ans": "",
+        "index": 0,
+        "point": 40
+      },
+      {
+        "ans": "",
+        "index": 1,
+        "point": 40
+      },
+      {
+        "ans": "",
+        "index": 2,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 3,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 4,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 5,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 6,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 10
+      }
+    ]
+  },
+
+{
+    "qts": "big cash",
+    "qtsTag": "big cash",
+    "answers": [
+      {
+        "ans": "",
+        "index": 0,
+        "point": 40
+      },
+      {
+        "ans": "",
+        "index": 1,
+        "point": 40
+      },
+      {
+        "ans": "",
+        "index": 2,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 3,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 4,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 5,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 6,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 10
+      }
+    ]
+  },
+
+{
+    "qts": "big cash",
+    "qtsTag": "big cash",
+    "answers": [
+      {
+        "ans": "",
+        "index": 0,
+        "point": 40
+      },
+      {
+        "ans": "",
+        "index": 1,
+        "point": 40
+      },
+      {
+        "ans": "",
+        "index": 2,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 3,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 4,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 5,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 6,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 10
+      }
+    ]
+  },
+
   
   {
     "qts": "Dummy Question",
@@ -391,7 +583,135 @@
         "ans": "Dummy Dummy Dummy",
         "index": 6,
         "point": 9
+      },
+{
+    "qts": "big cash",
+    "qtsTag": "big cash",
+    "answers": [
+      {
+        "ans": "",
+        "index": 0,
+        "point": 40
+      },
+      {
+        "ans": "",
+        "index": 1,
+        "point": 40
+      },
+      {
+        "ans": "",
+        "index": 2,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 3,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 4,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 5,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 6,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 10
       }
+    ]
+  },
+
+{
+    "qts": "big cash",
+    "qtsTag": "big cash",
+    "answers": [
+      {
+        "ans": "",
+        "index": 0,
+        "point": 40
+      },
+      {
+        "ans": "",
+        "index": 1,
+        "point": 40
+      },
+      {
+        "ans": "",
+        "index": 2,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 3,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 4,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 5,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 6,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 10
+      }
+    ]
+  }
+
     ]
   }
   
