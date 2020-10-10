@@ -1,6 +1,6 @@
 [
   {
-    "qts": "we asked 100 married women, Name something you wish your husband would do more often",
+    "qts": "We asked 100 married women, Name something you wish your husband would do more often",
     "qtsTag": "rounds",
     "answers": [
       {
@@ -32,7 +32,7 @@
       },
 
       {
-        "ans": "listen to me more often/attention",
+        "ans": "quality attention",
         "index": 5,
         "point": 10
       },
@@ -49,7 +49,7 @@
     "qtsTag": "rounds",
     "answers": [
       {
-        "ans": "Clergyman",
+        "ans": "Religious head",
         "index": 0,
         "point": 27
       },
