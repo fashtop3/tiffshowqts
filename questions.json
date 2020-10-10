@@ -1,167 +1,369 @@
 [
   {
-    "qts": "We asked 100 married women, Name something you wish your husband would do more often",
+    "qts": "say you are sorry....",
     "qtsTag": "rounds",
     "answers": [
       {
-        "ans": "last longer in bed",
+        "ans": "No vex na",
         "index": 0,
-        "point": 25
+        "point": 30
       },
       {
-        "ans": "give money",
+        "ans": "i apologise",
         "index": 1,
-        "point": 18
+        "point": 21
       },
       {
-        "ans": "take me outing",
+        "ans": "Forgive me",
         "index": 2,
-        "point": 15
+        "point": 18
       },
 
       {
-        "ans": "shave/bath",
+        "ans": "I am wrong",
         "index": 3,
         "point": 12
       },
 
       {
-        "ans": "come home early",
+        "ans": "I won't do it again",
         "index": 4,
-        "point": 11
+        "point": 10
       },
 
       {
-        "ans": "quality attention",
+        "ans": "Pardon me",
+        "index": 5,
+        "point": 8
+      },
+
+      {
+        "ans": "Don't mind me",
+        "index": 6,
+        "point": 5
+      },
+
+      {
+        "ans": "don't be offended",
+        "index": 7,
+        "point": 3
+      }
+    ]
+  },
+{
+    "qts": "name something you...",
+    "qtsTag": "rounds",
+    "answers": [
+      {
+        "ans": "water",
+        "index": 0,
+        "point": 22
+      },
+      {
+        "ans": "gala/snacks",
+        "index": 1,
+        "point": 21
+      },
+      {
+        "ans": "Recharge card",
+        "index": 2,
+        "point": 17
+      },
+
+      {
+        "ans": "Soft drinks",
+        "index": 3,
+        "point": 15
+      },
+
+      {
+        "ans": "car accesories",
+        "index": 4,
+        "point": 10
+      },
+
+      {
+        "ans": "Music disc",
         "index": 5,
         "point": 10
       },
 
       {
-        "ans": "get gifts",
+        "ans": "Phone Accessories",
         "index": 6,
-        "point": 9
+        "point": 5
       }
     ]
   },
-  {
-    "qts": "Name something a wedding and funeral have in common",
+ {
+    "qts": "what's the quickest way to...",
     "qtsTag": "rounds",
     "answers": [
       {
-        "ans": "Religious head",
+        "ans": "call them by names",
         "index": 0,
-        "point": 27
+        "point": 32
       },
       {
-        "ans": "Aso Ebi",
+        "ans": "pressing phone to their face",
         "index": 1,
-        "point": 16
+        "point": 23
       },
       {
-        "ans": "Food",
+        "ans": "unplanned pregnancy",
+        "index": 2,
+        "point": 19
+      },
+
+      {
+        "ans": "improper dressing/vulgarism",
+        "index": 3,
+        "point": 15
+      },
+
+      {
+        "ans": "not greeting/ignoring",
+        "index": 4,
+        "point": 5
+      }
+    ]
+  }, 
+  {
+    "qts": "What profession in Nigeria do you think is essential but undervalued",
+    "qtsTag": "rounds",
+    "answers": [
+      {
+        "ans": "Teaching",
+        "index": 0,
+        "point": 48
+      },
+      {
+        "ans": "Policing",
+        "index": 1,
+        "point": 22
+      },
+      {
+        "ans": "Nursing",
         "index": 2,
         "point": 22
       },
 
       {
-        "ans": "Souvenirs",
+        "ans": "Farming",
         "index": 3,
-        "point": 18
+        "point": 4
       },
 
       {
-        "ans": "Drinks",
+        "ans": "Therapist/psychologist",
         "index": 4,
-        "point": 11
-      },
-
-      {
-        "ans": "Music",
-        "index": 5,
-        "point": 6
+        "point": 3
       }
     ]
   },
-  {
-    "qts": "Phrases usually used by Nigerian lecturers",
+{
+    "qts": "We asked 100 Nigerians, will you prefer a salary .....",
     "qtsTag": "rounds",
     "answers": [
       {
-        "ans": "A is for God, B is for me",
+        "ans": "2 million naira to start business",
         "index": 0,
-        "point": 29
-      },
-      {
-        "ans": "get out of my class",
-        "index": 1,
-        "point": 19
-      },
-      {
-        "ans": "see me in my office",
-        "index": 2,
-        "point": 18
-      },
-
-      {
-        "ans": "Tear a sheet of paper",
-        "index": 3,
-        "point": 15
-      },
-
-      {
-        "ans": "Minus 5",
-        "index": 4,
-        "point": 10
-      },
-
-      {
-        "ans": "AOC",
-        "index": 5,
-        "point": 5
+        "point": 64
       }
     ]
   },
-  {
-    "qts": "We asked 100 teenagers what's your least favourite house chores",
-    "qtsTag": "rounds",
+{
+    "qts": "big cash",
+    "qtsTag": "big cash",
     "answers": [
       {
-        "ans": "Washing plates",
+        "ans": "",
         "index": 0,
         "point": 40
       },
       {
-        "ans": "Sweeping/mopping",
+        "ans": "",
         "index": 1,
-        "point": 25
+        "point": 10
       },
       {
-        "ans": "Doing laundry",
+        "ans": "",
         "index": 2,
-        "point": 14
+        "point": 40
       },
 
       {
-        "ans": "washing the car",
+        "ans": "",
         "index": 3,
-        "point": 14
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 4,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 5,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 6,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 10
       }
     ]
   },
-  {
-    "qts": "We asked Nigerians, do you prefer online banking or walk-in Banking ",
-    "qtsTag": "rounds",
+
+{
+    "qts": "big cash",
+    "qtsTag": "big cash",
     "answers": [
       {
-        "ans": "Walk-in Banking",
+        "ans": "",
         "index": 0,
-        "point": 60
+        "point": 40
+      },
+      {
+        "ans": "",
+        "index": 1,
+        "point": 10
+      },
+      {
+        "ans": "",
+        "index": 2,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 3,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 4,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 5,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 6,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 10
       }
     ]
   },
-  
-  {
+{
+    "qts": "big cash",
+    "qtsTag": "big cash",
+    "answers": [
+      {
+        "ans": "",
+        "index": 0,
+        "point": 40
+      },
+      {
+        "ans": "",
+        "index": 1,
+        "point": 10
+      },
+      {
+        "ans": "",
+        "index": 2,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 3,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 4,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 5,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 6,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 7,
+        "point": 10
+      },
+
+      {
+        "ans": "",
+        "index": 8,
+        "point": 40
+      },
+
+      {
+        "ans": "",
+        "index": 9,
+        "point": 10
+      }
+    ]
+  },
+
+{
     "qts": "Dummy Question",
     "qtsTag": "rounds",
     "answers": [
@@ -394,5 +596,4 @@
       }
     ]
   }
-  
-]
+  ]
